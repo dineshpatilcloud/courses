@@ -1,115 +1,132 @@
-# Python Training Agenda for System Administrators
+# Python Basics to Advanced Workshop
 
-## Day 1-2: Introduction to Python and Setting Up Development Environment
+>## Introduction and Basics of Python
+
 - **Introduction to Python**
   - Overview of Python
-  - Why Python for System Administration?
 
 - **Installation and Setup**
   - Installing Python
-  - Setting up a virtual environment
+  - Setting up a IDE
+    - VS Code
+    - Anaconda Jyputer Notebook
 
-- **Basic Python Syntax**
-  - Variables and Data Types
-  - Control Flow (if statements, loops)
-  - Functions and Modules
+- **Basic Python**
+  - Variables
+  - Data Types
+    - Numeric
+    - Boolean
+    - Sequence Types
+    - Set
+    - Dictionary
+    - Binary Types
+  - Functions (Builtin)
+    - file
+    - print
+    - input
+    - help
+    - range
+  - Lists
+    - Introduction to Lists
+    - Slicing Lists
+    - List Comprehension
+    - List Methods
+    - Nested Lists
+  - Tuples
+    - Introduction to Tuples
+    - Tuples Methods
+    - Tuples Iteration
+  - Dictionary
+    - Introduction to Dictionary
+    - Dictionary Methods
+    - Dictionary Operators
+  - Control Flow
+    - if-else
+    - if-elif-else
+    - for
+    - while
+    - continue, pass
 
-- **Working with Files and Directories**
-  - File I/O operations
-  - os and shutil modules
+>## Advanced Python
 
-## Day 3-4: Essential Python Libraries for System Administration
-- **Introduction to Pip and Package Management**
-  - Installing and managing packages
-  - Virtual environments and requirements.txt
+- Functions
+  - Introduction to Functions
+  - Return
+  - Parameter vs Argument
+  - Passing Args
+  - args-kwargs
+  - Lambda
+  - Namespace and Scope
+  - Generators
+  - Decorators
 
-- **Working with Data Formats**
-  - JSON and YAML
-  - Parsing and creating data files
+- OOP
+  - Introduction of OOP
+  - Classes
+  - Methods
+  - Inheritance
+  - Polymorphism
+  - Encapsulation
+  - Name Mangling
 
-- **Networking in Python**
+- Package Management
+  - pip
+  - Virtual Environment
+
+- **Modules**
+  - Introduction of Modules
+  - Importing Modules
+  - Importing Package
+  - Attribute \_\_name\_\_
+  - Datetime
+  - Operations with
+    - CSV
+    - JSON
+    - Yaml
+
+- **Errors and Exceptions**
+  - Exceptions
+  - Handling
+
+- **Debugging**  
+
+- **Multithreading and Multiprocessing**
+  - Concurrency in Python
+  - Parallel processing
+
+>## Essential Python Libraries and Activities for System Administration
+
+- Administrative activities
+  - Accepting input by pipe
+  - Handling passwords at runtime in scripts
+  - Running External Commands and Getting it's output
+  - Adding Logging and Warning code in scripts
+  - Restricting CPU and memory usage
+  - File Archivign , Encrypting and Decrypting
+  - Sending emails
+- Documentation and Reporting
+  - Using Templates for reports  
+  - Word file  (Writing, reading , adding images)writing-a-basic-word-document
+  - PDF (Writing , reading , Encryption and Decryption)
+  - Excel files (Writing , reading, Creatign charts)
+  
+- Networking in Python
   - Socket programming
   - Requests library for HTTP requests
   - Paramiko for SSH connections
-
-## Day 5-6: Automation and Scripting for System Administration
-- **Automation Basics**
-  - Automating repetitive tasks
-  - Scheduling tasks with cron
-
-- **Introduction to Ansible**
-  - Writing playbooks
-  - Managing configurations
 
 - **Database Interaction**
   - Using SQLite with Python
   - Database operations with SQLAlchemy
 
-## Day 7-8: Web Development with Flask for System Administrators
+- **WebScraping**
+
+>## Web Development with Flask
+
 - **Introduction to Web Development**
-  - Basics of HTML, CSS, and JavaScript
+  - Basics of Flask
   - Overview of Flask framework
 
 - **Building a Basic Web Application**
   - Routing and templates
   - Handling forms and user input
-
-- **Deploying Flask Applications**
-  - Using WSGI servers
-  - Containerization with Docker
-
-## Day 9-10: Advanced Python Concepts for System Administrators
-- **Multithreading and Multiprocessing**
-  - Concurrency in Python
-  - Parallel processing
-
-- **Regular Expressions**
-  - Pattern matching and manipulation
-
-- **Error Handling and Debugging**
-  - Handling exceptions
-  - Debugging techniques
-
-## Day 11-12: Security and Best Practices in Python for System Administrators
-- **Introduction to Security Practices**
-  - Securing code and applications
-  - Best practices for handling sensitive data
-
-- **Testing in Python**
-  - Unit testing with unittest
-  - Test-driven development (TDD)
-
-- **Code Optimization and Performance**
-  - Profiling and optimizing Python code
-  - Common performance pitfalls
-
-# Invitation
-
-**Subject:** Python Training for System Administrators - Unlock the Power of Automation
-
-Dear [Recipient],
-
-We are thrilled to invite you to a comprehensive Python training program specially crafted for System Administrators. This 48-hour training, hosted by NTMS Institute, is designed to equip you with the skills and knowledge needed to harness the full potential of Python for system administration tasks.
-
-**Key Highlights:**
-- Learn Python from basics to advanced topics in just 12 days.
-- Hands-on sessions and real-world scenarios for practical understanding.
-- Expert guidance from seasoned instructors with extensive DevOps experience.
-- Build a solid foundation in automation, scripting, and web development.
-- Explore advanced concepts, security practices, and performance optimization.
-
-**Date and Time: [Insert Date and Time]**
-**Venue: [Insert Venue or Virtual Platform]**
-
-Don't miss this opportunity to enhance your skill set and elevate your proficiency in Python for System Administration. Whether you're a beginner or looking to deepen your expertise, this training will provide valuable insights and practical skills that you can apply immediately in your role.
-
-To secure your spot, please register at [Registration Link].
-
-For any inquiries or assistance, feel free to reach out to us at [Contact Information].
-
-We look forward to having you join us for this transformative learning experience!
-
-Best regards,
-
-[Your Name]
-NTMS Institute Team
