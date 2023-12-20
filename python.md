@@ -1,6 +1,8 @@
 # Python Basics to Advanced Workshop
 
->## Introduction and Basics of Python
+<details>
+
+<summary>## Introduction and Basics of Python</summary>
 
 - **Introduction to Python**
   - Overview of Python
@@ -46,6 +48,8 @@
     - for
     - while
     - continue, pass
+
+</details>
 
 >## Advanced Python
 
