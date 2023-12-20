@@ -1,7 +1,6 @@
-# Python Basics to Advanced Workshop
+# :rocket: Python Basics to Advanced Workshop :rocket:
 
-<details>
-<summary> ## Introduction and Basics of Python</summary>
+## Introduction and Basics of Python
 
 - **Introduction to Python**
   - Overview of Python
@@ -47,8 +46,6 @@
     - for
     - while
     - continue, pass
-
-</details>
 
 >## Advanced Python
 
