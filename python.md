@@ -1,7 +1,7 @@
 # Python Basics to Advanced Workshop
 
 <details>
-<summary>Introduction and Basics of Python</summary>
+<summary> ## Introduction and Basics of Python</summary>
 
 - **Introduction to Python**
   - Overview of Python
