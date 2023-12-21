@@ -1,6 +1,6 @@
 # 🐍🚀 Python Basics to Advanced Workshop 🐍🚀
 
-## Unlock the Power of Python: A Workshop Tailored for System Administrators, Cloud DevOps Engineers, and Python Enthusiasts! 🐍✨
+## Unlock the Power of Python: A Workshop Tailored for System Administrators, Cloud DevOps Engineers, and Python Enthusiasts!🌟
 
 Are you a **System Administrator** striving to enrich your skill set and streamline workflows? Perhaps you're a **Python enthusiast** eager to level up your coding prowess? Or are you a **Cloud DevOps Engineer** aiming to master cloud management with Python? Look no further! 🌟
 
