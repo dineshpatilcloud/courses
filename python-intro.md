@@ -105,12 +105,12 @@ ___
 **Date:** First week of FEB 2024  
 **Time:** Morning session in weekdays (Preferably Wed and Fri) 8:30 AM to 10 AM.  
 **Venue:** Online Training  
-**Duration:** 5-6 Months
+**Duration:** 5-6 Months  
 **fees:** 15k  
 
 Let's code, automate, and innovate together! 🚀🐍✨
 
-**Enroll Today and Unlock Your Full Potential!** 🌟👩‍💻👨‍💻
+[**Enroll Today and Unlock Your Full Potential!**](https://forms.gle/npGQ6mk5nDiA8tQ56) 🌟👩‍💻👨‍💻
 
 To secure your spot, register [here](https://forms.gle/npGQ6mk5nDiA8tQ56). For any inquiries, feel free to contact us at 9920969648.
 
