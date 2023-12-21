@@ -18,7 +18,9 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 ## Overview
 
-### Introduction and Basics of Python
+___
+
+>### Introduction and Basics of Python
 
 #### Introduction to Python
 
@@ -33,7 +35,7 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 - Master the fundamentals of Python, including variables, data types, functions, and control flow.
 - Explore the intricacies of data structures like lists, tuples, and dictionaries.
 
-## Advanced Python
+>## Advanced Python
 
 ### Functions
 
@@ -56,7 +58,7 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 - Unlock the potential of concurrency and parallel processing in Python.
 
-## Essential Python Libraries and Activities for System Administration
+>## Essential Python Libraries and Activities for System Administration
 
 ### Administrative Activities
 
@@ -78,7 +80,7 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 - Delve into the Azure SDK for Python, covering authentication and resource management for Azure services.
 
-## Web Scraping, Web Development, and Building API
+>## Web Scraping, Web Development, and Building API
 
 ### Web Scraping
 
@@ -96,7 +98,9 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 - Dive into asynchronous programming with Celery as a task queue for handling workloads efficiently.
 
-Don't miss out on this incredible opportunity to enhance your Python skills and transform your approach to system administration and cloud DevOps. Join us for this workshop and embark on a journey to become a Python expert!
+___
+
+✨✨Don't miss out on this incredible opportunity to enhance your Python skills and transform your approach to system administration and cloud DevOps. Join us for this workshop and embark on a journey to become a Python expert!✨
 
 **Date:** First week of FEB 2024  
 **Time:** Morning session in weekdays (Preferably Wed and Fri) 8:30 AM to 10 AM.  
