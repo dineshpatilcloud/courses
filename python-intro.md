@@ -18,7 +18,7 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 ## Overview
 
->### Introduction and Basics of Python
+>### 🌟Introduction and Basics of Python🌟
 
 #### Introduction to Python
 
@@ -33,7 +33,7 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 - Master the fundamentals of Python, including variables, data types, functions, and control flow.
 - Explore the intricacies of data structures like lists, tuples, and dictionaries.
 
->## Advanced Python
+>## 🌟Advanced Python🌟
 
 #### Functions
 
@@ -56,7 +56,7 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 - Unlock the potential of concurrency and parallel processing in Python.
 
->## Essential Python Libraries and Activities for System Administration
+>## 🌟Essential Python Libraries and Activities for System Administration🌟
 
 #### Administrative Activities
 
@@ -78,7 +78,7 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 - Delve into the Azure SDK for Python, covering authentication and resource management for Azure services.
 
->## Web Scraping, Web Development, and Building API
+>## 🌟Web Scraping, Web Development, and Building API🌟
 
 #### Web Scraping
 
@@ -110,6 +110,6 @@ Let's code, automate, and innovate together! 🚀🐍✨
 
 [**Enroll Today and Unlock Your Full Potential!**](https://forms.gle/npGQ6mk5nDiA8tQ56) 🌟👩‍💻👨‍💻
 
-To secure your spot, register [here](https://forms.gle/npGQ6mk5nDiA8tQ56). For any inquiries, feel free to contact us at 9920969648.
+To secure your spot, register [here](https://forms.gle/npGQ6mk5nDiA8tQ56). For any inquiries, feel free to contact us at Aayushi- 8169909891 Dinesh- 9920969648.
 
 [Click here for more details agenda](/courses/python.html)
