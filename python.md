@@ -1,4 +1,4 @@
-# :rocket: Python Basics to Advanced Workshop :rocket:
+# 🐍🚀 Python Basics to Advanced Workshop 🐍🚀
 
 >## Introduction and Basics of Python
 

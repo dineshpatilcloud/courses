@@ -1,4 +1,6 @@
-# Unlock the Power of Python: A Workshop Tailored for System Administrators, Cloud DevOps Engineers, and Python Enthusiasts! 🐍✨
+# 🐍🚀 Python Basics to Advanced Workshop 🐍🚀
+
+## Unlock the Power of Python: A Workshop Tailored for System Administrators, Cloud DevOps Engineers, and Python Enthusiasts! 🐍✨
 
 Are you a **System Administrator** striving to enrich your skill set and streamline workflows? Perhaps you're a **Python enthusiast** eager to level up your coding prowess? Or are you a **Cloud DevOps Engineer** aiming to master cloud management with Python? Look no further! 🌟
 
@@ -96,17 +98,16 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 Don't miss out on this incredible opportunity to enhance your Python skills and transform your approach to system administration and cloud DevOps. Join us for this workshop and embark on a journey to become a Python expert!
 
-**Date:** First week of FEB 2024
-**Time:** Morning session in weekdays (Preferably Wed and Fri) 8:30 AM to 10 AM.
-**Venue:** Online Training
-**fees:** 15k
-
-To secure your spot, register [here](Registration Link). For any inquiries, feel free to contact us at [Contact Information].
+**Date:** First week of FEB 2024  
+**Time:** Morning session in weekdays (Preferably Wed and Fri) 8:30 AM to 10 AM.  
+**Venue:** Online Training  
+**Duration:** 5-6 Months
+**fees:** 15k  
 
 Let's code, automate, and innovate together! 🚀🐍✨
 
 **Enroll Today and Unlock Your Full Potential!** 🌟👩‍💻👨‍💻
 
-[Click here for more details agenda](/courses/python.html)
+To secure your spot, register [here](https://forms.gle/npGQ6mk5nDiA8tQ56). For any inquiries, feel free to contact us at 9920969648.
 
-[Click here to Enroll for the same](https://forms.gle/npGQ6mk5nDiA8tQ56)
+[Click here for more details agenda](/courses/python.html)
