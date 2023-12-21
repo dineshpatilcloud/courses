@@ -1,6 +1,6 @@
 # 🐍🚀 Python Basics to Advanced Workshop 🐍🚀
 
->## Basics of Python 🌟
+>## 🌟 Basics of Python 🌟
 
 - <ins>**Introduction to Python**</ins>
   - ***Overview of Python:*** Embrace the power and versatility of Python as a programming language, understanding its significance in various domains.
@@ -19,7 +19,7 @@
   - ***Dictionary:*** Master the art of working with dictionaries, covering introduction, methods, and operators.
   - ***Control Flow:*** Navigate through control flow structures, including if-else, if-elif-else, for, while, continue, and pass.
 
->## Advanced Python 🌟
+>## 🌟 Advanced Python 🌟
 
 - <ins>**Functions**</ins>
   - ***Introduction to Functions:*** Understand the nuances of functions in Python.
@@ -61,7 +61,7 @@
   - ***Concurrency in Python:*** Unlock the potential of concurrent programming in Python.
   - ***Parallel Processing:*** Delve into parallel processing to optimize your Python applications.
 
->## Essential Python Libraries and Activities for System Administration 🌟
+>## 🌟 Essential Python Libraries and Activities for System Administration 🌟
 
 - <ins>**Administrative Activities**</ins>
   - ***Accepting Input by Pipe:*** Explore techniques for accepting input through pipes in your scripts.
@@ -95,7 +95,7 @@
     - ***Storage:*** Explore storage management in Azure using Python.
     - ***Virtual Machine:*** Gain insights into managing Azure Virtual Machines with Python.
 
->## Web Scraping, Web Development and Building API 🌟
+>## 🌟 Web Scraping, Web Development and Building API 🌟
 
 - <ins>**Web Scraping**</ins>
   - ***Introduction to Web Scraping:*** Delve into the world of web scraping using Python.
