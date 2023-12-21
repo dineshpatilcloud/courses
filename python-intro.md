@@ -14,7 +14,7 @@ Python has become the go-to language for automation, scripting, and system admin
 
 ## What Will You Learn?
 
-Our workshop spans 5-6 Months, covering everything from the fundamentals to advanced topics, ensuring you acquire a holistic understanding of Python in the context of system administration and overview of web development.
+Our workshop spans 5-6 Months, covering everything from the fundamentals to advanced topics, ensuring you acquire a holistic understanding of Python in the context of system administration and overview of web development. We will providing Hands-on sessions and real-world scenarios for practical understanding.
 
 ## Overview
 
