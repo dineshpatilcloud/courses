@@ -3,7 +3,7 @@
 >## Introduction and Basics of Python
 
 - **Introduction to Python**
-  - *Overview of Python:* Embrace the power and versatility of Python as a programming language, understanding its significance in various domains.
+  - ***Overview of Python:*** Embrace the power and versatility of Python as a programming language, understanding its significance in various domains.
 
 - **Installation and Setup**
   - *Installing Python:* Dive into the initial steps of setting up Python on your machine, ensuring a smooth start to your coding journey.
