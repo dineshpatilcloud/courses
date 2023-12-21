@@ -2,7 +2,7 @@
 
 >## Introduction and Basics of Python
 
-- **Introduction to Python**
+- <ins>**Introduction to Python**</ins>
   - ***Overview of Python:*** Embrace the power and versatility of Python as a programming language, understanding its significance in various domains.
 
 - **Installation and Setup**
