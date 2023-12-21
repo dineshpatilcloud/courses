@@ -18,8 +18,6 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 ## Overview
 
-___
-
 >### Introduction and Basics of Python
 
 #### Introduction to Python
