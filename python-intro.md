@@ -35,64 +35,64 @@ Our workshop spans 5-6 Months, covering everything from the fundamentals to adva
 
 >## Advanced Python
 
-### Functions
+#### Functions
 
 - Dive into advanced function concepts, including Lambda functions, Generators, and Decorators.
 
-### Object-Oriented Programming (OOP)
+#### Object-Oriented Programming (OOP)
 
 - Gain proficiency in OOP with insights into classes, methods, inheritance, and more.
 
-### Package Management and Modules
+#### Package Management and Modules
 
 - Explore the world of package management using pip and virtual environments.
 - Harness the power of modules for efficient coding, including working with CSV, JSON, and YAML.
 
-### Errors and Exceptions
+#### Errors and Exceptions
 
 - Master error handling and debugging techniques to write robust code.
 
-### Multithreading and Multiprocessing
+#### Multithreading and Multiprocessing
 
 - Unlock the potential of concurrency and parallel processing in Python.
 
 >## Essential Python Libraries and Activities for System Administration
 
-### Administrative Activities
+#### Administrative Activities
 
 - Learn essential system administration tasks, such as accepting input by pipe, handling passwords, and managing CPU and memory usage.
 
-### Documentation and Reporting
+#### Documentation and Reporting
 
 - Streamline documentation and reporting using templates for reports and working with various file formats, including Word, PDF, and Excel.
 
-### Networking in Python
+#### Networking in Python
 
 - Explore networking in Python through socket programming, HTTP requests with the Requests library, and SSH connections with Paramiko.
 
-### Database Interaction
+#### Database Interaction
 
 - Understand how to interact with databases using SQLite and perform database operations with SQLAlchemy.
 
-### Azure SDK for Python
+#### Azure SDK for Python
 
 - Delve into the Azure SDK for Python, covering authentication and resource management for Azure services.
 
 >## Web Scraping, Web Development, and Building API
 
-### Web Scraping
+#### Web Scraping
 
 - Unleash the power of web scraping with Python.
 
-### Web Development with Flask
+#### Web Development with Flask
 
 - Learn the basics of web development with Flask, including routing, templates, and form handling.
 
-### Build API using FastAPI
+#### Build API using FastAPI
 
 - Explore FastAPI to create APIs, handle parameters, and work with asynchronous tasks.
 
-### Build Asynchronous APIs
+#### Build Asynchronous APIs
 
 - Dive into asynchronous programming with Celery as a task queue for handling workloads efficiently.
 
