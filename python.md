@@ -1,5 +1,7 @@
 # 🐍🚀 Python Basics to Advanced Workshop 🐍🚀
 
+
+>[!Tip]
 >## Introduction and Basics of Python
 
 - **Introduction to Python**
